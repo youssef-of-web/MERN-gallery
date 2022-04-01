@@ -1,0 +1,10 @@
+.trash{
+  color: red;
+  width: 20px;
+  cursor: pointer;
+}
+
+.head{
+  display: flex;
+  justify-content: space-between;
+}
